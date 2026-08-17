@@ -1,4 +1,0 @@
-package SubmissionofIntroductiontoDataStructuresandAlgorithms.Section1PseudocodeProblems;
-
-public class PrimeNumberChecker {
-}
